@@ -1,0 +1,17 @@
+h1 {
+			color: white;
+			border: 2px solid red;
+			background: #65ef56;
+			font-family: "Comic Sans MS";
+			border-radius: 20px;
+		}
+		.box {
+			background: black;
+			color: white;
+			width: 250px;
+			height: 200px ;
+			border: 2px solid red;
+		}
+		.box h1 {
+			color:red;
+		}
